@@ -2,6 +2,8 @@
         🚅 LiteLLM
     </h1>
     <p align="center">
+        <p align="center">Это форк на русском языке
+        </p>
         <p align="center">Call 100+ LLMs in OpenAI format. [Bedrock, Azure, OpenAI, VertexAI, Anthropic, Groq, etc.]
         </p>
         <p align="center">
